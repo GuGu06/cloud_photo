@@ -133,8 +133,7 @@ function setupFeatureIcons() {
 }
 
 // GitHub 直接下载链接
-const apkDownloadUrl = 'https://github.com/GuGu06/cloud_photo/blob/main/app-release.apk';
-
+const apkDownloadUrl = 'https://raw.githubusercontent.com/GuGu06/cloud_photo/main/app-release.apk';
 // 下载 APK 文件
 function downloadApk() {
     // 创建一个临时链接并触发下载
